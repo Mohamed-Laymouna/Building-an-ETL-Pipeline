@@ -17,8 +17,3 @@ dist/
 venv/
 .venv/
 
-# Data and Output files
-*.csv
-*.json
-*.parquet
-image.png
